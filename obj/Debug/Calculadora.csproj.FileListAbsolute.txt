@@ -1,0 +1,10 @@
+C:\Users\chond\Downloads\Calculadora\Calculadora\bin\Debug\cal.exe.config
+C:\Users\chond\Downloads\Calculadora\Calculadora\bin\Debug\cal.exe
+C:\Users\chond\Downloads\Calculadora\Calculadora\bin\Debug\cal.pdb
+C:\Users\chond\Downloads\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\chond\Downloads\Calculadora\Calculadora\obj\Debug\Calculadora.Calculadora.resources
+C:\Users\chond\Downloads\Calculadora\Calculadora\obj\Debug\cal.Properties.Resources.resources
+C:\Users\chond\Downloads\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\chond\Downloads\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\chond\Downloads\Calculadora\Calculadora\obj\Debug\cal.exe
+C:\Users\chond\Downloads\Calculadora\Calculadora\obj\Debug\cal.pdb
